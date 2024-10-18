@@ -71,7 +71,7 @@ pip install opencv-python==4.10.0.84
 ### Installing from Wheels:
 
 ``` bash
-git clone
+git clone https://github.com/GabrielLima1995/FaceRecognitionOnJetsonNano.git
 pip install dlib-19.24.6-cp38-cp38-linux_aarch64.whl 
 pip install face_recognition_models-0.3.0-py2.py3-none-any.whl
 ```
